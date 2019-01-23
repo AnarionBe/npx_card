@@ -1,22 +1,22 @@
 # BeCode: npx card
 
-> 🛰️ Short project's description
+> 🛰️ My own npx card
 
 * * *
 
-A short abstract of the project, goals, context… Anything that should be useful for a future reader.
+Displaying my npx card.
 
 ## About
 
-A more detailed description of the project, with technical details: used langages and techs, context, etc.
+Made whith NodeJs. Use the following packages:
 
-## Installation (if applicable)
+* [chalk](https://www.npmjs.com/package/chalk)
+* [figlet](https://www.npmjs.com/package/figlet)
+* [boxen](https://www.npmjs.com/package/boxen)
 
-Details of process to install / setup dev environment for the project, if applicable.
+## Usage
 
-## Usage (if applicable)
-
-How to use the project, if applicable
+run `npx anarion`
 
 * * *
 
