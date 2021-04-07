@@ -12,7 +12,7 @@
     "author": "Anarion",
     "license": "ISC",
     "dependencies": {
-        "boxen": "^2.1.0",
+        "boxen": "^5.0.1",
         "chalk": "^2.4.2",
         "figlet": "^1.2.1"
     }
